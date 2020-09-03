@@ -1,4 +1,4 @@
-＃＃＃ 嗨，您好!
+### Hi there!
 
 <!--
 **dyh68/dyh68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
